@@ -125,15 +125,6 @@ EXIT;
 ```bash
 mysql -h <RDS-ENDPOINT> -u <USERNAME> -p -e "SELECT * FROM userdb.form_submissions;"
 ```
-
-```
-
----
-
-Agar chaho mai ab **poora README.md ka final version** ready bana du jisme ye database section + sari previous instructions included ho, ek hi file me?
-```
-
-
 ---
 
 ## 🔍 How It Works
@@ -179,23 +170,10 @@ Three-Tier-Application/
 
 ---
 
-## 📜 License
-
-**MIT License**
-
----
-
 ## 🙏 Credits
 
 * Developed by **Mohammed Faisal Iqbal**
 * GitHub: [faisaliqbal-dev](https://github.com/faisaliqbal-dev)
 * LinkedIn: [Mohammed Faisal Iqbal](https://www.linkedin.com/in/mohammed-faisal-iqbal-4629ab344)
 
-```
-
----
-
-Bhai ye **new README.md** professional + modern format me hai aur fully updated hai **PHP form + RDS + S3 + EC2 project ke liye**.  
-
-Agar chaho mai tumhare liye **ek aur version bana du**, jo **short + resume friendly** ho jisse GitHub me portfolio dikhe aur recruiters ko impress kare?
 ```
