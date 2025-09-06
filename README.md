@@ -96,6 +96,9 @@ mysql -h <RDS-ENDPOINT> -u <USERNAME> -p
 * Replace `<USERNAME>` with your RDS username (e.g., `admin`)
 * Enter your password when prompted
 
+###  create your database
+CREATE DATABASE userdb;
+
 ### 2️⃣ Select your database
 
 ```sql
